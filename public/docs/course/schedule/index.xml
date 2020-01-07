@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schedule on DH2</title>
+    <link>http://example.org/docs/course/schedule/</link>
+    <description>Recent content in Schedule on DH2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/docs/course/schedule/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 1</title>
+      <link>http://example.org/docs/course/schedule/week1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/course/schedule/week1/</guid>
+      <description>Monday, January 6 Introduction to the course; curation and collecting; how the web works</description>
+    </item>
+    
+    <item>
+      <title>Week 2</title>
+      <link>http://example.org/docs/course/schedule/week2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/course/schedule/week2/</guid>
+      <description>Monday, January 13 Follow-up from previous class: static sites and introduction to curation  Build and refine your own portfolio using hugo. Reading: https://guide.dhcuration.org/ Writing, aka the debrief (for this week, write it on your computer; we will use an online system for this starting next week)  </description>
+    </item>
+    
+  </channel>
+</rss>

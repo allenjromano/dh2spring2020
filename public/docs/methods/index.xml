@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DH2</title>
+    <link>http://example.org/docs/methods/</link>
+    <description>Recent content on DH2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/docs/methods/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction</title>
+      <link>http://example.org/docs/methods/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/methods/introduction/</guid>
+      <description>Introduction The following chapters and tutorials are excerpts from work in progress and are meant as documentation, to a degree, of methods introduced and worked on during class. Your suggestions for improvement are welcome. Later in the semester you will be invited to contribute through pull requests to this project.</description>
+    </item>
+    
+    <item>
+      <title>Static Sites</title>
+      <link>http://example.org/docs/methods/static/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/docs/methods/static/</guid>
+      <description>Static Sites One of the fastest and easiest ways to get content online is with a static site generator. Particularly for textual content, static site generators like hugo and jekyll allow you to work primarily with markdown documents and minimally (if at all) with code while still having a fairly large amount of control over your site. The main advantage of static site generators is that they are incredibly lightweight and fast.</description>
+    </item>
+    
+  </channel>
+</rss>

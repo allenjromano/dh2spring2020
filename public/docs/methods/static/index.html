@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Static Sites"><meta property="og:title" content="Static Sites" />
+<meta property="og:description" content="Static Sites One of the fastest and easiest ways to get content online is with a static site generator. Particularly for textual content, static site generators like hugo and jekyll allow you to work primarily with markdown documents and minimally (if at all) with code while still having a fairly large amount of control over your site. The main advantage of static site generators is that they are incredibly lightweight and fast." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/docs/methods/static/" />
+<meta property="article:modified_time" content="2020-01-06T22:18:27-05:00" />
+<title>Static Sites | DH2</title>
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+
+
+<link rel="stylesheet" href="/book.min.68d45956421753cdf6bcfc865ede445c56afc5bcaaebfe02961f44fe77d8f45a.css" integrity="sha256-aNRZVkIXU832vPyGXt5EXFavxbyq6/4Clh9E/nfY9Fo=">
+
+
+<script defer src="/en.search.min.7ccdc138e3731b167f0c2b33bbd316cee2b94dd03eba57e944a0ce6688e8b5fd.js" integrity="sha256-fM3BOONzGxZ/DCszu9MWzuK5TdA&#43;ulfpRKDOZojotf0="></script>
+
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body>
+  <input type="checkbox" class="hidden" id="menu-control" />
+  <main class="flex container">
+
+    <aside class="book-menu fixed">
+      <nav>
+<h2 class="book-brand">
+  <a href="http://example.org/"><span>DH2</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" />
+  <div class="book-search-spinner spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+    
+
+  
+  
+
+
+
+
+
+ 
+  
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        
+
+  <li  class="book-section-flat" >
+    
+      <span>Course</span>
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/docs/course/announcements/" >
+      Announcements
+  </a>
+
+
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/docs/course/syllabus/" >
+      Syllabus
+  </a>
+
+
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/docs/course/schedule/" >
+      Schedule
+  </a>
+
+
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+
+  <a href="/docs/course/schedule/week1/" >
+      Week 1
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/docs/course/schedule/week2/" >
+      Week 2
+  </a>
+
+</li>
+      
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li  class="book-section-flat" >
+    
+      <span>Methods</span>
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+
+  <a href="/docs/methods/introduction/" >
+      Introduction
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/docs/methods/static/"  class="active">
+      Static Sites
+  </a>
+
+</li>
+      
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+  </ul>
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+<script>
+(function() {
+  var menu = document.querySelector("aside.book-menu nav");
+  addEventListener("beforeunload", function(event) {
+    localStorage.setItem("menu.scrollTop", menu.scrollTop);
+  });
+  menu.scrollTop = localStorage.getItem("menu.scrollTop");
+})();
+</script>
+
+    </aside>
+
+    <div class="book-page">
+      <header class="flex align-center justify-between book-header">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+  <strong>Static Sites</strong>
+</header>
+
+      
+<article class="markdown"><h1 id="static-sites">Static Sites</h1>
+<p>One of the fastest and easiest ways to get content online is with a static site generator. Particularly for textual content, static site generators like hugo and jekyll allow you to work primarily with markdown documents and minimally (if at all) with code while still having a fairly large amount of control over your site. The main advantage of static site generators is that they are incredibly lightweight and fast. Static sites are, as the name implies, static copies of the html and css needed to produce the page; they therefore do not need to be fetched or built by a server when someone looks at the page and so require minimal resources to serve over the internet.</p>
+<h2 id="try-it-out-at-a-glance">Try it out: at a glance</h2>
+<ol>
+<li>Follow the Quickstart guide for <a href="https://gohugo.io">hugo</a>.</li>
+<li>Try changing the theme from the default, in order to create a personal portfolio to show off your work. Some themes that you might look at include the <a href="https://themes.gohugo.io/academic/">Academic theme</a>, the <a href="https://themes.gohugo.io/freelancer/">freelancer theme</a>, the coder theme, any of the blog themes &ndash; really, any theme can serve as a starting point.</li>
+<li>Add content and customize the page</li>
+</ol>
+<h2 id="the-details">The Details</h2>
+<h3 id="set-up-hugo">Set up Hugo</h3>
+
+
+
+
+<div class="book-tabs">
+
+  <input type="radio" class="hidden" name="tabs-uniqueid" id="tabs-uniqueid-0" checked="checked" />
+  <label for="tabs-uniqueid-0">
+    MacOS
+  </label>
+  <div class="book-tabs-content markdown-inner">
+    <h1 id="macos">MacOS</h1>
+<p>The instructions for Mac and Linux are fairly straightforward. For Mac, if you have not installed homebrew, then you should do so. It will make everything much easier: <a href="https://brew.sh/">https://brew.sh/</a>
+  </div>
+
+  <input type="radio" class="hidden" name="tabs-uniqueid" id="tabs-uniqueid-1"  />
+  <label for="tabs-uniqueid-1">
+    Linux
+  </label>
+  <div class="book-tabs-content markdown-inner">
+    <h1 id="linux">Linux</h1>
+<p>If you are using Linux, then you don't need me to explain it to you.</p>
+<p>For the rest of you, switch to Linux (or BSD). It will make this so much easier.</p>
+
+  </div>
+
+  <input type="radio" class="hidden" name="tabs-uniqueid" id="tabs-uniqueid-2"  />
+  <label for="tabs-uniqueid-2">
+    Windows
+  </label>
+  <div class="book-tabs-content markdown-inner">
+    <h1 id="windows">Windows</h1>
+<p>For Windows, the steps are sometimes more complicated, particularly if you are not used to doing things on the command line or in your file structure. A few pointers:</p>
+<ul>
+<li>make sure to scroll down to the Windows section of the instructions</li>
+<li>familiarize yourself with your directory structure. Most likely you have a main C: directory but then your files are all in C:\Users\yourusername. This is important as you may get confused when adding the necessary file folders (C:\Hugo, C:\Hugo\bin) in the instructions.</li>
+<li>to help get a feel for the directory structure on your computer AND to help learn the ocommand line, I strongly suggest that you open up your console (or terminal &ndash; just search for it in the search bar or push the windows key while holding r, then type cmd). See hwere you are at the prompt (it will list your current directory). Then use the following commands to navigate a bit:</li>
+</ul>
+<ol>
+<li>dir will list the contents of a directory</li>
+<li>cd followed by the name of a nested directory will get you into that directory</li>
+<li>cd by itself will take you back to your home directory (usually C:\Users\yourusername)</li>
+<li>cd .. will get you up one level of the directory (cd .... will get you up two levels, cd ../../.. will take you up three and so forth)</li>
+</ol>
+  </div>
+
+</div>
+
+<h1 id="create-a-site">Create a site</h1>
+<p>As you follow the instructions on the hugo site, a few notes:</p>
+<ul>
+<li>pay particular attention to which directory you are in when you run the hugo new site command. The site will be created as a subdirectory of wherever you are when you execute the command.</li>
+<li>you can set up a folder to hold your sites or for this class and then build the sites under that folder</li>
+</ul>
+<h1 id="view-your-site">View your site</h1>
+<p>When you are done with setup, you will preview your site by typing hugo server -D</p>
+<p>Open your browser and type localhost:1313 into the address bar to get to your site.</p>
+<p>If you don't see anything, then there's a good chance you haven't added any content yet. Go find the content folder of your site. Also, look at the documentation for the theme and at the example site (usually hosted as a git repository as well) to see where files are kept and how they show up in the example site.</p>
+<h1 id="modify-content">Modify content</h1>
+<p>Note that for many blog themes you will find the content under /content/posts</p>
+<h1 id="markdown">Markdown</h1>
+<p>A static site generator takes as input markdown files. These are a form of plaintext file that includes some basic formatting information. For an overview of markdown and cheatsheet, see <a href="https://www.markdownguide.org/basic-syntax/">https://www.markdownguide.org/basic-syntax/</a></p>
+<p>Play around with it and see how formatting is displayed in the rendered site.</p>
+</article>
+
+      <div class="book-footer justify-between">
+  
+
+  
+  
+  <div>
+    
+    <a class="flex align-center" href="https://github.com/allenjromano/dh2spring2020/commit/73258b387675201aa00f0a015f8a7a32ac58e05f" title='Last modified by ajr | Jan 6, 2020' target="_blank">
+      <img src="/svg/calendar.svg" class="book-icon" alt="Calendar" />
+      <span>Jan 6, 2020</span>
+    </a>
+  </div>
+  
+  
+
+  
+
+</div>
+
+      
+    </div>
+
+    
+  
+
+  <aside class="book-toc levels-3 fixed">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#static-sites">Static Sites</a>
+      <ul>
+        <li><a href="#try-it-out-at-a-glance">Try it out: at a glance</a></li>
+        <li><a href="#the-details">The Details</a>
+          <ul>
+            <li><a href="#set-up-hugo">Set up Hugo</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#create-a-site">Create a site</a></li>
+    <li><a href="#view-your-site">View your site</a></li>
+    <li><a href="#modify-content">Modify content</a></li>
+    <li><a href="#markdown">Markdown</a></li>
+  </ul>
+</nav>
+  </aside>
+
+
+
+  </main>
+
+  
+</body>
+
+</html>
