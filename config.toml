@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://zen-joliot-76825c.netlify.com/"
 languageCode = "en-us"
 title = "DH2"
 theme = "book"
