@@ -1,0 +1,22 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "DH2"
+theme = "book"
+
+disablePathToLower = true
+enableGitInfo = true
+
+[markup]
+[markup.goldmark.renderer]
+    unsafe = true
+
+[markup.tableOfContents]
+    startLevel = 1
+
+[params]
+BookToC = 3
+
+BookRepo = 'https://github.com/allenjromano/dh2spring2020'
+
+BookDateFormat = 'Jan 2, 2006'
+BookSearch = true
