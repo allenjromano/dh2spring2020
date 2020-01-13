@@ -6,21 +6,36 @@ weight: 4
 
 # Monday, January 27 
 
-## Follow-up
+## Follow-up from previous class: html, basic servers 
+
+For help, use the Methods section on Static Sites, Part II and the section on servers and
+ssh. For html, see the Methods page on Basic hmtl.
+
+1. Sign up for service on vultr (with affiliate link, giving you $50 credit for your servers: [https://www.vultr.com/?ref=8369991-4F](https://www.vultr.com/?ref=8369991-4F)
+
+2. Follow the instructions to set up an open bsd server: https://www.vultr.com/docs/creating-a-simple-website-on-vultr-with-openbsd-httpd
+
+You may also find the tutorials useful at https://www.romanzolotarev.com/
+
+3. Optional: set up login with ssh keys:
+https://www.vultr.com/docs/how-do-i-generate-ssh-keys
+
+4. Once you have your server set up, put up a basic html page version of your weekly writing.
 
 ## Reading
-Archives as Performance: http://www.digitalhumanities.org/dhq/vol/10/4/000269/000269.html (Links to an external site.)
 
-Collection as Ethics: http://www.digitalhumanities.org/dhq/vol/12/4/000404/000404.html (Links to an external site.)
+On servers and such: Check out https://stackshare.io/ for the variety of server architectures
 
-Ethics in Collections: http://www.digitalhumanities.org/dhq/vol/11/3/000324/000324.html (Links to an external site.)
+Look at the following sites and consider what is at stake in their User Interface and user design:
+The Met; https://www.metmuseum.org/art/collection 
 
-Graban on the archive: http://www.ncte.org/library/NCTEFiles/Resources/Journals/CE/0762-nov2013/CE0762Location.pdf (Links to an external site.)
+Rijksmuseum: https://www.rijksmuseum.nl/en/rijksstudio
 
-Archives as Memory: https://americanarchivist.org/doi/pdf/10.17723/aarc.53.3.d87u013444j3g6r2 (Links to an external site.)
+Manly: http://mtchl.net/manlyimages/ 
 
-The dissolution of Memory: https://journals.sagepub.com/doi/pdf/10.1177/1354067X09353212 (Links to an external site.)
+Real face of white australia: http://invisibleaustralians.org/faces/ 
 
- 
+ Generous Interfaces: http://mtchl.net/tag/generousinterfaces/ 
 
-Optional: Archive, Power, Memory: https://www.nyu.edu/classes/bkg/methods/schwartz.pdf
+Encyclopedia of Human computer interaction: https://www.interaction-design.org/literature 
+
