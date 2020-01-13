@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Static Sites, Part II"><meta property="og:title" content="Static Sites, Part II" />
+<meta property="og:description" content="Static Sites, part II In the previous section we looked at how to start with a static site and previewed it on our local machine. Here we put it online, starting with some easy to use options and moving on to more complicated options after that.
+Try it out: at a glance  Put your local site on github or gitlab Deploy to Netlify from your git repository: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/  Server deployment:" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://zen-joliot-76825c.netlify.com/docs/methods/static2/" />
+<meta property="article:modified_time" content="2020-01-13T10:37:16-05:00" />
+<title>Static Sites, Part II | DH2</title>
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+
+
+<link rel="stylesheet" href="/book.min.68d45956421753cdf6bcfc865ede445c56afc5bcaaebfe02961f44fe77d8f45a.css" integrity="sha256-aNRZVkIXU832vPyGXt5EXFavxbyq6/4Clh9E/nfY9Fo=">
+
+
+<script defer src="/en.search.min.fbaa84603c515f710f403b6826fd4980de51063d99166dd3319b90c58a204d2a.js" integrity="sha256-&#43;6qEYDxRX3EPQDtoJv1JgN5RBj2ZFm3TMZuQxYogTSo="></script>
+
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+
+  
+</head>
+
+<body>
+  <input type="checkbox" class="hidden" id="menu-control" />
+  <main class="flex container">
+
+    <aside class="book-menu fixed">
+      <nav>
+<h2 class="book-brand">
+  <a href="https://zen-joliot-76825c.netlify.com/"><span>DH2</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" />
+  <div class="book-search-spinner spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+
+
+    
+
+  
+  
+
+
+
+
+
+ 
+  
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        
+
+  <li  class="book-section-flat" >
+    
+      <span>Course</span>
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/docs/course/announcements/" >
+      Announcements
+  </a>
+
+
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/docs/course/syllabus/" >
+      Syllabus
+  </a>
+
+
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li >
+    
+      
+
+  <a href="/docs/course/schedule/" >
+      Schedule
+  </a>
+
+
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+
+  <a href="/docs/course/schedule/week1/" >
+      Week 1
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/docs/course/schedule/week2/" >
+      Week 2
+  </a>
+
+</li>
+      
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+      
+        
+
+  <li  class="book-section-flat" >
+    
+      <span>Methods</span>
+    
+
+    
+
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+
+  <a href="/docs/methods/introduction/" >
+      Introduction
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/docs/methods/static/" >
+      Static Sites
+  </a>
+
+</li>
+      
+    
+      
+        <li>
+
+  <a href="/docs/methods/static2/"  class="active">
+      Static Sites, Part II
+  </a>
+
+</li>
+      
+    
+  </ul>
+  
+
+
+
+  </li>
+
+
+      
+    
+  </ul>
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+<script>
+(function() {
+  var menu = document.querySelector("aside.book-menu nav");
+  addEventListener("beforeunload", function(event) {
+    localStorage.setItem("menu.scrollTop", menu.scrollTop);
+  });
+  menu.scrollTop = localStorage.getItem("menu.scrollTop");
+})();
+</script>
+
+    </aside>
+
+    <div class="book-page">
+      <header class="flex align-center justify-between book-header">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+  <strong>Static Sites, Part II</strong>
+</header>
+
+      
+<article class="markdown"><h1 id="static-sites-part-ii">Static Sites, part II</h1>
+<p>In the previous section we looked at how to start with a static site and previewed it on our local machine. Here we put it online, starting with some
+easy to use options and moving on to more complicated options after that.</p>
+<h2 id="try-it-out-at-a-glance">Try it out: at a glance</h2>
+<ol>
+<li>Put your local site on github or gitlab</li>
+<li>Deploy to Netlify from your git repository: <a href="https://gohugo.io/hosting-and-deployment/hosting-on-netlify/">https://gohugo.io/hosting-and-deployment/hosting-on-netlify/</a></li>
+</ol>
+<p><em>Server deployment:</em></p>
+<ol>
+<li>Set up an openbsd instance on vultr: <a href="https://www.vultr.com/docs/creating-a-simple-website-on-vultr-with-openbsd-httpd">https://www.vultr.com/docs/creating-a-simple-website-on-vultr-with-openbsd-httpd</a></li>
+</ol>
+<p>It is appreciated, but not required, that you use my referral link for vultr <a href="https://www.vultr.com/?ref=8369991-4F">https://www.vultr.com/?ref=8369991-4F</a></p>
+<ol start="2">
+<li>
+<p>The good old-fashioned way to deploy: copy your public directory to the server</p>
+</li>
+<li>
+<p>Optional: Automate your deployment.</p>
+</li>
+</ol>
+<h2 id="the-details">The Details</h2>
+<h3 id="git">Git</h3>
+<p>There are numerous tutorials on how to get started with git. Among others, check out <a href="https://swcarpentry.github.io/git-novice/">https://swcarpentry.github.io/git-novice/</a>. Those wanting a GUI might check out github desktop: <a href="https://desktop.github.com/">https://desktop.github.com/</a>.</p>
+<p>The following steps are all CLI based and assume that you have git installed.</p>
+<h3 id="deploy-to-netlify">Deploy to Netlify</h3>
+<h3 id="set-up-server">Set up server</h3>
+<h3 id="build-and-deploy-to-server">Build and Deploy to server</h3>
+</article>
+
+      <div class="book-footer justify-between">
+  
+
+  
+  
+  <div>
+    
+    <a class="flex align-center" href="https://github.com/allenjromano/dh2spring2020/commit/598bb6c4de955b34d9f0c5fa813e969ba026365d" title='Last modified by ajr | Jan 13, 2020' target="_blank">
+      <img src="/svg/calendar.svg" class="book-icon" alt="Calendar" />
+      <span>Jan 13, 2020</span>
+    </a>
+  </div>
+  
+  
+
+  
+
+</div>
+
+      
+    </div>
+
+    
+  
+
+  <aside class="book-toc levels-3 fixed">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#static-sites-part-ii">Static Sites, part II</a>
+      <ul>
+        <li><a href="#try-it-out-at-a-glance">Try it out: at a glance</a></li>
+        <li><a href="#the-details">The Details</a>
+          <ul>
+            <li><a href="#git">Git</a></li>
+            <li><a href="#deploy-to-netlify">Deploy to Netlify</a></li>
+            <li><a href="#set-up-server">Set up server</a></li>
+            <li><a href="#build-and-deploy-to-server">Build and Deploy to server</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+  </aside>
+
+
+
+  </main>
+
+  
+</body>
+
+</html>
