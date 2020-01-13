@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Schedule on DH2</title>
-    <link>https://zen-joliot-76825c.netlify.com/docs/course/schedule/</link>
+    <link>https://www.didaskalos.xyz/docs/course/schedule/</link>
     <description>Recent content in Schedule on DH2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://zen-joliot-76825c.netlify.com/docs/course/schedule/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.didaskalos.xyz/docs/course/schedule/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Week 1</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week1/</link>
+      <link>https://www.didaskalos.xyz/docs/course/schedule/week1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week1/</guid>
+      <guid>https://www.didaskalos.xyz/docs/course/schedule/week1/</guid>
       <description>Monday, January 6 Introduction to the course; curation and collecting; how the web works</description>
     </item>
     
     <item>
       <title>Week 2</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week2/</link>
+      <link>https://www.didaskalos.xyz/docs/course/schedule/week2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week2/</guid>
+      <guid>https://www.didaskalos.xyz/docs/course/schedule/week2/</guid>
       <description>Monday, January 13 Follow-up from previous class: static sites and introduction to curation  Build and refine your own portfolio using hugo. Reading: https://guide.dhcuration.org/ Writing, aka the debrief (for this week, write it on your computer; we will use an online system for this starting next week)  </description>
     </item>
     
     <item>
       <title>Week 3</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week3/</link>
+      <link>https://www.didaskalos.xyz/docs/course/schedule/week3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week3/</guid>
+      <guid>https://www.didaskalos.xyz/docs/course/schedule/week3/</guid>
       <description>Monday, January 20 NO CLASS; FSU Closed</description>
     </item>
     
     <item>
       <title>Week 4</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week4/</link>
+      <link>https://www.didaskalos.xyz/docs/course/schedule/week4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week4/</guid>
+      <guid>https://www.didaskalos.xyz/docs/course/schedule/week4/</guid>
       <description>Monday, January 27 Follow-up from previous class: html, basic servers For help, use the Methods section on Static Sites, Part II and the section on servers and ssh. For html, see the Methods page on Basic hmtl.
   Sign up for service on vultr (with affiliate link, giving you $50 credit for your servers: https://www.vultr.com/?ref=8369991-4F
   Follow the instructions to set up an open bsd server: https://www.vultr.com/docs/creating-a-simple-website-on-vultr-with-openbsd-httpd
@@ -51,11 +51,11 @@
     
     <item>
       <title>Week 5</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week5/</link>
+      <link>https://www.didaskalos.xyz/docs/course/schedule/week5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week5/</guid>
-      <description>Monday, January 27 Follow-up Reading Archives as Performance: http://www.digitalhumanities.org/dhq/vol/10/4/000269/000269.html (Links to an external site.)
+      <guid>https://www.didaskalos.xyz/docs/course/schedule/week5/</guid>
+      <description>Monday, February 3 Follow-up Reading Archives as Performance: http://www.digitalhumanities.org/dhq/vol/10/4/000269/000269.html (Links to an external site.)
 Collection as Ethics: http://www.digitalhumanities.org/dhq/vol/12/4/000404/000404.html (Links to an external site.)
 Ethics in Collections: http://www.digitalhumanities.org/dhq/vol/11/3/000324/000324.html (Links to an external site.)
 Graban on the archive: http://www.ncte.org/library/NCTEFiles/Resources/Journals/CE/0762-nov2013/CE0762Location.pdf (Links to an external site.)

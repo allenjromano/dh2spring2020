@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DH2</title>
-    <link>https://zen-joliot-76825c.netlify.com/docs/methods/</link>
+    <link>https://www.didaskalos.xyz/docs/methods/</link>
     <description>Recent content on DH2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://zen-joliot-76825c.netlify.com/docs/methods/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.didaskalos.xyz/docs/methods/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/methods/introduction/</link>
+      <link>https://www.didaskalos.xyz/docs/methods/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/methods/introduction/</guid>
+      <guid>https://www.didaskalos.xyz/docs/methods/introduction/</guid>
       <description>Introduction The following chapters and tutorials are excerpts from work in progress and are meant as documentation, to a degree, of methods introduced and worked on during class. Your suggestions for improvement are welcome. Later in the semester you will be invited to contribute through pull requests to this project.</description>
     </item>
     
     <item>
       <title>Static Sites</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/methods/static/</link>
+      <link>https://www.didaskalos.xyz/docs/methods/static/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/methods/static/</guid>
+      <guid>https://www.didaskalos.xyz/docs/methods/static/</guid>
       <description>Static Sites One of the fastest and easiest ways to get content online is with a static site generator. Particularly for textual content, static site generators like hugo and jekyll allow you to work primarily with markdown documents and minimally (if at all) with code while still having a fairly large amount of control over your site. The main advantage of static site generators is that they are incredibly lightweight and fast.</description>
     </item>
     
     <item>
       <title>Static Sites, Part II</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/methods/static2/</link>
+      <link>https://www.didaskalos.xyz/docs/methods/static2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/methods/static2/</guid>
+      <guid>https://www.didaskalos.xyz/docs/methods/static2/</guid>
       <description>Static Sites, part II In the previous section we looked at how to start with a static site and previewed it on our local machine. Here we put it online, starting with some easy to use options and moving on to more complicated options after that.
 Try it out: at a glance  Put your local site on github or gitlab Deploy to Netlify from your git repository: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/  Server deployment:</description>
     </item>
     
     <item>
       <title>Basic Html</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/methods/html/</link>
+      <link>https://www.didaskalos.xyz/docs/methods/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/methods/html/</guid>
+      <guid>https://www.didaskalos.xyz/docs/methods/html/</guid>
       <description>Basic Html In the previous sections you set up a server or a static site deployed to netlify. Here you start working with some basic html, with the aim that you are both able to recognize html tags and able to manipulate basic html tags to your needs.
 Resources The resources available to learn html are copious and high quality. For example:
 For a simple interactive introduction, try https://www.w3schools.com/html/

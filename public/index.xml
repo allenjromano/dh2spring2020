@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on DH2</title>
-    <link>https://zen-joliot-76825c.netlify.com/</link>
+    <link>https://www.didaskalos.xyz/</link>
     <description>Recent content in Welcome on DH2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://zen-joliot-76825c.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.didaskalos.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/methods/introduction/</link>
+      <link>https://www.didaskalos.xyz/docs/methods/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/methods/introduction/</guid>
+      <guid>https://www.didaskalos.xyz/docs/methods/introduction/</guid>
       <description>Introduction The following chapters and tutorials are excerpts from work in progress and are meant as documentation, to a degree, of methods introduced and worked on during class. Your suggestions for improvement are welcome. Later in the semester you will be invited to contribute through pull requests to this project.</description>
     </item>
     
     <item>
       <title>Week 1</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week1/</link>
+      <link>https://www.didaskalos.xyz/docs/course/schedule/week1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week1/</guid>
+      <guid>https://www.didaskalos.xyz/docs/course/schedule/week1/</guid>
       <description>Monday, January 6 Introduction to the course; curation and collecting; how the web works</description>
     </item>
     
     <item>
       <title>Static Sites</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/methods/static/</link>
+      <link>https://www.didaskalos.xyz/docs/methods/static/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/methods/static/</guid>
+      <guid>https://www.didaskalos.xyz/docs/methods/static/</guid>
       <description>Static Sites One of the fastest and easiest ways to get content online is with a static site generator. Particularly for textual content, static site generators like hugo and jekyll allow you to work primarily with markdown documents and minimally (if at all) with code while still having a fairly large amount of control over your site. The main advantage of static site generators is that they are incredibly lightweight and fast.</description>
     </item>
     
     <item>
       <title>Week 2</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week2/</link>
+      <link>https://www.didaskalos.xyz/docs/course/schedule/week2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week2/</guid>
+      <guid>https://www.didaskalos.xyz/docs/course/schedule/week2/</guid>
       <description>Monday, January 13 Follow-up from previous class: static sites and introduction to curation  Build and refine your own portfolio using hugo. Reading: https://guide.dhcuration.org/ Writing, aka the debrief (for this week, write it on your computer; we will use an online system for this starting next week)  </description>
     </item>
     
     <item>
       <title>Week 3</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week3/</link>
+      <link>https://www.didaskalos.xyz/docs/course/schedule/week3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week3/</guid>
+      <guid>https://www.didaskalos.xyz/docs/course/schedule/week3/</guid>
       <description>Monday, January 20 NO CLASS; FSU Closed</description>
     </item>
     
     <item>
       <title>Static Sites, Part II</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/methods/static2/</link>
+      <link>https://www.didaskalos.xyz/docs/methods/static2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/methods/static2/</guid>
+      <guid>https://www.didaskalos.xyz/docs/methods/static2/</guid>
       <description>Static Sites, part II In the previous section we looked at how to start with a static site and previewed it on our local machine. Here we put it online, starting with some easy to use options and moving on to more complicated options after that.
 Try it out: at a glance  Put your local site on github or gitlab Deploy to Netlify from your git repository: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/  Server deployment:</description>
     </item>
     
     <item>
       <title>Basic Html</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/methods/html/</link>
+      <link>https://www.didaskalos.xyz/docs/methods/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/methods/html/</guid>
+      <guid>https://www.didaskalos.xyz/docs/methods/html/</guid>
       <description>Basic Html In the previous sections you set up a server or a static site deployed to netlify. Here you start working with some basic html, with the aim that you are both able to recognize html tags and able to manipulate basic html tags to your needs.
 Resources The resources available to learn html are copious and high quality. For example:
 For a simple interactive introduction, try https://www.w3schools.com/html/
@@ -79,10 +79,10 @@ For a big online course: https://www.</description>
     
     <item>
       <title>Week 4</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week4/</link>
+      <link>https://www.didaskalos.xyz/docs/course/schedule/week4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week4/</guid>
+      <guid>https://www.didaskalos.xyz/docs/course/schedule/week4/</guid>
       <description>Monday, January 27 Follow-up from previous class: html, basic servers For help, use the Methods section on Static Sites, Part II and the section on servers and ssh. For html, see the Methods page on Basic hmtl.
   Sign up for service on vultr (with affiliate link, giving you $50 credit for your servers: https://www.vultr.com/?ref=8369991-4F
   Follow the instructions to set up an open bsd server: https://www.vultr.com/docs/creating-a-simple-website-on-vultr-with-openbsd-httpd
@@ -91,11 +91,11 @@ For a big online course: https://www.</description>
     
     <item>
       <title>Week 5</title>
-      <link>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week5/</link>
+      <link>https://www.didaskalos.xyz/docs/course/schedule/week5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week5/</guid>
-      <description>Monday, January 27 Follow-up Reading Archives as Performance: http://www.digitalhumanities.org/dhq/vol/10/4/000269/000269.html (Links to an external site.)
+      <guid>https://www.didaskalos.xyz/docs/course/schedule/week5/</guid>
+      <description>Monday, February 3 Follow-up Reading Archives as Performance: http://www.digitalhumanities.org/dhq/vol/10/4/000269/000269.html (Links to an external site.)
 Collection as Ethics: http://www.digitalhumanities.org/dhq/vol/12/4/000404/000404.html (Links to an external site.)
 Ethics in Collections: http://www.digitalhumanities.org/dhq/vol/11/3/000324/000324.html (Links to an external site.)
 Graban on the archive: http://www.ncte.org/library/NCTEFiles/Resources/Journals/CE/0762-nov2013/CE0762Location.pdf (Links to an external site.)

@@ -7,7 +7,7 @@ title: "Announcements"
 
 # Announcements
 
-Wed 08 Jan 2020 01:59:12 PM EST
+Mon 13 Jan 2020 04:32:48 PM EST
 
 The site has moved to dh2.didaskalos.xyz
 
