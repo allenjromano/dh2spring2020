@@ -38,5 +38,17 @@
 Try it out: at a glance  Put your local site on github or gitlab Deploy to Netlify from your git repository: https://gohugo.io/hosting-and-deployment/hosting-on-netlify/  Server deployment:</description>
     </item>
     
+    <item>
+      <title>Basic Html</title>
+      <link>https://zen-joliot-76825c.netlify.com/docs/methods/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zen-joliot-76825c.netlify.com/docs/methods/html/</guid>
+      <description>Basic Html In the previous sections you set up a server or a static site deployed to netlify. Here you start working with some basic html, with the aim that you are both able to recognize html tags and able to manipulate basic html tags to your needs.
+Resources The resources available to learn html are copious and high quality. For example:
+For a simple interactive introduction, try https://www.w3schools.com/html/
+For a big online course: https://www.</description>
+    </item>
+    
   </channel>
 </rss>
