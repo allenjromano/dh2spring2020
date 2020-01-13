@@ -38,6 +38,10 @@ You may also want to look at (be aware of) reclaim hosting https://reclaimhostin
 
 This is a class which will use a wide range of different technologies.  Students should have a reliable functioning laptop for use in class and  access to a reliable internet connection.
 
+You have a number of options for how to host sites you create. While some of these are free services, some are subscription services. For those subscription services, we will often use trial accounts so that you can see how the service works and decide whether to continue with it for your project. 
+
+For web hosting, I am using vultr. You can use the same service (while also helping offset hosting costs for this and other sites), by getting your free trial ($50 credit) through [my referal link](https://www.vultr.com/?ref=8369991-4F)
+
 ### Student Responsibilities
 
 - This is a graduate class. It is expected that students attend all  class sessions, complete all assignments, work consistently towards  project goals, contribute to discussion threads on a regular basis, and  come prepared to engage fully in in-class activities.

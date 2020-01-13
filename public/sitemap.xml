@@ -3,64 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/docs/course/announcements/</loc>
+    <loc>https://zen-joliot-76825c.netlify.com/docs/course/announcements/</loc>
+    <lastmod>2020-01-06T23:22:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-joliot-76825c.netlify.com/docs/methods/introduction/</loc>
+    <lastmod>2020-01-06T22:18:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-joliot-76825c.netlify.com/docs/course/syllabus/</loc>
     <lastmod>2020-01-06T21:29:10-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/docs/methods/introduction/</loc>
+    <loc>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week1/</loc>
     <lastmod>2020-01-06T22:18:27-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/docs/course/syllabus/</loc>
+    <loc>https://zen-joliot-76825c.netlify.com/docs/course/schedule/</loc>
+    <lastmod>2020-01-06T22:18:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-joliot-76825c.netlify.com/docs/methods/static/</loc>
+    <lastmod>2020-01-06T22:18:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-joliot-76825c.netlify.com/docs/course/schedule/week2/</loc>
+    <lastmod>2020-01-06T22:18:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-joliot-76825c.netlify.com/docs/course/</loc>
     <lastmod>2020-01-06T21:29:10-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/docs/course/schedule/week1/</loc>
-    <lastmod>2020-01-06T22:18:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/docs/course/schedule/</loc>
-    <lastmod>2020-01-06T22:18:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/docs/methods/static/</loc>
-    <lastmod>2020-01-06T22:18:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/docs/course/schedule/week2/</loc>
-    <lastmod>2020-01-06T22:18:27-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/docs/course/</loc>
+    <loc>https://zen-joliot-76825c.netlify.com/docs/methods/</loc>
     <lastmod>2020-01-06T21:29:10-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/docs/methods/</loc>
-    <lastmod>2020-01-06T21:29:10-05:00</lastmod>
+    <loc>https://zen-joliot-76825c.netlify.com/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://zen-joliot-76825c.netlify.com/docs/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/docs/</loc>
+    <loc>https://zen-joliot-76825c.netlify.com/tags/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
+    <loc>https://zen-joliot-76825c.netlify.com/</loc>
     <lastmod>2020-01-06T21:29:10-05:00</lastmod>
   </url>
   

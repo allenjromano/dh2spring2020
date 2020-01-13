@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Syllabus on DH2</title>
-    <link>http://example.org/docs/course/syllabus/</link>
+    <link>https://zen-joliot-76825c.netlify.com/docs/course/syllabus/</link>
     <description>Recent content in Syllabus on DH2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/docs/course/syllabus/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zen-joliot-76825c.netlify.com/docs/course/syllabus/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
